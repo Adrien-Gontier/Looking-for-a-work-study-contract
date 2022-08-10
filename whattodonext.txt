@@ -1,0 +1,10 @@
+In french.
+
+To do liste des choses à faire et autres idées
+
+- mettre en place une base de données SQL et écrire les requète avec PHP pour les livres.
+- Faire le formulaire pour rentrer les livres ( avec sécurité anti injection SQL).
+- mettre en place les boutons pour supprimer les livres et les changer de catégories.
+- mettre en place une base de données SQL pour les noms utilisateurs et mots de passe avec hachage.
+- faire un système de connexion avec cookie avec PHP (avec sécurité anti injection SQL).
+- faire une version du site en locale avec localstorage.
