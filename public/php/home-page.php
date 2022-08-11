@@ -8,7 +8,15 @@
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-    
+    <header>
+        
+        <?php include('app_title.php'); ?>
+        
+        
+    </header>
+
+
+
     
 </body>
 </html>
