@@ -8,7 +8,20 @@ export class WhatBook {
         this._bookTitle = bt;
     }
 
+    get authorName(): string {
+        return this._authorName;
+    }
 
+    set authorName(authorName: string) {
+        this._authorName = authorName;
+    }
 
+    get bookTitle() {
+        return this._bookTitle;
+    }
+
+    set bookTitle(bookTitle: string) {
+        this._bookTitle = bookTitle;
+    }
 
 }
