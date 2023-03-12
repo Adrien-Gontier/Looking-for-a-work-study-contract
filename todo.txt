@@ -1,6 +1,6 @@
 - Look for improve my code
 - Think about fonts family (and the files in the tree)
 
-Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/App.css --style compressed
+Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
 
 Commmand line Prettier : npx prettier --write .
