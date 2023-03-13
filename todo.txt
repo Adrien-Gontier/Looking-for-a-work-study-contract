@@ -3,4 +3,4 @@
 
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
 
-Commmand line Prettier : npx prettier --write .
+Command line Prettier : npx prettier --write .
