@@ -1,6 +1,12 @@
 - Look for improve my code
 - Think about fonts family (and the files in the tree)
 
+
+- Counting
+- Timer
+- Simple calculator
+
+
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
 
 Command line Prettier : npx prettier --write .
