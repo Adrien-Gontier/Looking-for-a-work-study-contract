@@ -5,6 +5,7 @@
 - Counting
 - Timer
 - Simple calculator
+- m,n,k-game ('morpion' in french)
 
 
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
