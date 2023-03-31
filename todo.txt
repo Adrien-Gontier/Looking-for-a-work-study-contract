@@ -1,5 +1,6 @@
 - Look for improve my code
 - Think about fonts family (and the files in the tree)
+- Put Linkedin link et Github link too
 
 
 - Counting
