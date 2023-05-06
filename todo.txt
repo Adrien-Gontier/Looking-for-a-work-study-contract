@@ -9,6 +9,7 @@
 - Just Price (with a price to guess will be random)
 - Clock with hour, minutes and secondes
 - Date
+- Eight Ball
 
 
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
