@@ -835,7 +835,7 @@ export default function MNKGame() {
             <button
                 type="submit"
                 id="btn-new-game"
-                onclick="location.reload();"
+                onClick="location.reload();"
             >
                 Nouvelle partie
             </button>
@@ -844,60 +844,60 @@ export default function MNKGame() {
                 <tr>
                     <td id="carre1">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre1();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre1();"
                         ></button>
                     </td>
                     <td id="carre2">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre2();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre2();"
                         ></button>
                     </td>
                     <td id="carre3">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre3();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre3();"
                         ></button>
                     </td>
                 </tr>
                 <tr>
                     <td id="carre4">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre4();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre4();"
                         ></button>
                     </td>
                     <td id="carre5">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre5();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre5();"
                         ></button>
                     </td>
                     <td id="carre6">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre6();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre6();"
                         ></button>
                     </td>
                 </tr>
                 <tr>
                     <td id="carre7">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre7();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre7();"
                         ></button>
                     </td>
                     <td id="carre8">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre8();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre8();"
                         ></button>
                     </td>
                     <td id="carre9">
                         <button
-                            class="buttonplay"
-                            onclick="nouveauTourCarre9();"
+                            className="buttonplay"
+                            onClick="nouveauTourCarre9();"
                         ></button>
                     </td>
                 </tr>
