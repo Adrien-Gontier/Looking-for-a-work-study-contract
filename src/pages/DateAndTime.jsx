@@ -1,18 +1,15 @@
 import React from 'react'
 
 export default function DateAndTime() {
+    // Date.nom
 
-  // Date.nom
+    // date month
 
-  // date month
+    // date year
 
-  // date year
+    // hour now
 
-  // hour now
+    // Think to adjust time and date
 
-  // Think to adjust time and date
-
-  return (
-    <div>DateAndTime</div>
-  )
+    return <div>DateAndTime</div>
 }
