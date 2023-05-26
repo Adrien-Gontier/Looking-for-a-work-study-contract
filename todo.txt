@@ -10,6 +10,7 @@
 - Clock with hour, minutes and secondes
 - Date
 - Eight Ball
+- Chifoumi
 
 
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
