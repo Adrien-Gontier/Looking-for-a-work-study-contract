@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function TitleApp() {
   return (
-    <div>Timer</div>
+    <div className='timer-app-title'>Timer</div>
   )
 }
