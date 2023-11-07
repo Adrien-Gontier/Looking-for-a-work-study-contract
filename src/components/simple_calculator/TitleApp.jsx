@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function TitleApp() {
   return (
-    <div>Simple calculator</div>
+    <div className='simpleCalculator-app-title'>Simple calculator</div>
   )
 }
