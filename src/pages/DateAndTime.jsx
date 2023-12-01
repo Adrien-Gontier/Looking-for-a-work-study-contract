@@ -12,11 +12,7 @@ export default function DateAndTime() {
 
     // Think to adjust time and date
 
-
-    const titleMiniApp = TitleApp;
-
-
-
+    const titleMiniApp = TitleApp
 
     return <div>DateAndTime</div>
 }
