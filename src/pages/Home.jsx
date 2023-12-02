@@ -2,8 +2,7 @@ import React from 'react'
 import TitleApp from '../components/home/TitleApp'
 
 export default function Home() {
-
-    const titleApp = TitleApp;
+    const titleApp = TitleApp
 
     return <div>Home</div>
 }
