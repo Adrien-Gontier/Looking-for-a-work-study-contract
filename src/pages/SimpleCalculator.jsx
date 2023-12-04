@@ -2,9 +2,7 @@ import React from 'react'
 import TitleApp from '../components/simple_calculator/TitleApp'
 
 export default function SimpleCalculator() {
-
-    const titleMiniApp = TitleApp;
-
+    const titleMiniApp = TitleApp
 
     return <div>SimpleCalculator</div>
 }
