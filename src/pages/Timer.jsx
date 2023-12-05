@@ -2,11 +2,7 @@ import React from 'react'
 import TitleApp from '../components/timer/TitleApp'
 
 export default function Timer() {
-
-    const titleMiniApp = TitleApp;
-
-
-
+    const titleMiniApp = TitleApp
 
     return <div>Timer</div>
 }
