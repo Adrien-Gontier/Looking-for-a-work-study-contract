@@ -11,6 +11,7 @@
 - Date
 - Eight Ball
 - Chifoumi
+- Time by city
 
 
 Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
