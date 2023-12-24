@@ -14,5 +14,5 @@ export default function DateAndTime() {
 
     const titleMiniApp = TitleApp
 
-    return <div>DateAndTime</div>
+    return <div>{titleMiniApp}</div>
 }
