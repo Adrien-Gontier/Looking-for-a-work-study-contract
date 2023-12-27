@@ -1,5 +1,12 @@
 @import './base/general';
 
+
+/* Themes */
+
+@import './themes/dark';
+
+
+
 @import './pages/counting';
 @import './pages/dateAndTime';
 @import './pages/simpleCalculator';
