@@ -4,5 +4,5 @@ import TitleApp from '../components/counting/TitleApp'
 export default function Counting() {
     const titleMiniApp = TitleApp
 
-    return <div>{titleMiniApp}</div>
+    return <div className="countingPage">{titleMiniApp}</div>
 }
