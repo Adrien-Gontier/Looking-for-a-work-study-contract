@@ -4,5 +4,5 @@ import TitleApp from '../components/mnkgame/TitleApp'
 export default function MNKGame() {
     const titleMiniApp = TitleApp
 
-    return <div>{titleMiniApp}</div>
+    return <div className="cmnkGamePage">{titleMiniApp}</div>
 }
