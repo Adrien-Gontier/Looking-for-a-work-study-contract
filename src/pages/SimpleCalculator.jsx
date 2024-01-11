@@ -4,5 +4,5 @@ import TitleApp from '../components/simple_calculator/TitleApp'
 export default function SimpleCalculator() {
     const titleMiniApp = TitleApp
 
-    return <div>SimpleCalculator</div>
+    return <div>{titleMiniApp}</div>
 }
