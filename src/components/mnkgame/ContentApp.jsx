@@ -1,7 +1,6 @@
 import React from 'react'
 
 export default function ContentApp() {
-
     // TODO Improve code to better maintability
 
     let joueur // 1 pour x et 2 pour o
