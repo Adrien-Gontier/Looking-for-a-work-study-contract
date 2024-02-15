@@ -1,9 +1,8 @@
 import React from 'react'
 
-function ContentApp() {
+export default function ContentApp() {
   return (
     <div>ContentApp</div>
   )
 }
 
-export default ContentApp
