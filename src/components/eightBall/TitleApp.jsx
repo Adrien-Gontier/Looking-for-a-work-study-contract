@@ -1,9 +1,8 @@
 import React from 'react'
 
-function TitleApp() {
+export default function TitleApp() {
   return (
     <div>TitleApp</div>
   )
 }
 
-export default TitleApp
