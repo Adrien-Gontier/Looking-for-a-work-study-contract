@@ -1,9 +1,7 @@
 import React from 'react'
 
-function EightBall() {
+export default function EightBall() {
   return (
     <div>EightBall</div>
   )
 }
-
-export default EightBall
