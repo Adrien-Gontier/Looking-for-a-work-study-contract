@@ -14,5 +14,5 @@ export default function DateAndTime() {
 
     const titleMiniApp = TitleApp
 
-    return <div>{titleMiniApp}</div>
+    return <div className='dateAndTime-page'>{titleMiniApp}</div>
 }
