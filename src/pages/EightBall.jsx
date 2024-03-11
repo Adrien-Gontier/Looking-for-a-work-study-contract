@@ -1,5 +1,9 @@
 import React from 'react'
+import TitleApp from '../components/eightBall/TitleApp'
 
 export default function EightBall() {
-    return <div>EightBall</div>
+
+const titleMiniApp = TitleApp;
+
+    return <div className='eightBall-page'>{titleMiniApp}</div>
 }
