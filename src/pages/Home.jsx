@@ -6,5 +6,8 @@ export default function Home() {
     const titleApp = TitleApp
     const navBar = NavBar;
 
-    return <div className='home-page'>{titleApp}</div>
+    return <div className='home-page'>
+        <div>{titleApp}</div>
+        <div>{navBar}</div>
+        </div>
 }
