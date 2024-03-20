@@ -5,5 +5,5 @@ export default function EightBall() {
 
 const titleMiniApp = TitleApp;
 
-    return <div className='eightBall-page'>{titleMiniApp}</div>
+    return <div className='eightBall-page'><div>{titleMiniApp}</div></div>
 }
