@@ -4,5 +4,5 @@ import TitleApp from '../components/timer/TitleApp'
 export default function Timer() {
     const titleMiniApp = TitleApp
 
-    return <div className='timer-app'>{titleMiniApp}</div>
+    return <div className='timer-app'><div>{titleMiniApp}</div></div>
 }
