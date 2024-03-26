@@ -1,8 +1,12 @@
 import React from 'react'
 import TitleApp from '../components/chifoumi/TitleApp'
 
-export default function chifoumi() {
+export default function Chifoumi() {
     const titleMiniApp = TitleApp
 
-    return <div className="chifoumiPage">{titleMiniApp}</div>
+    return (
+        <div className="chifoumiPage">
+            <div>{titleMiniApp}</div>
+        </div>
+    )
 }
