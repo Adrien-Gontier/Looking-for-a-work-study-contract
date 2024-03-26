@@ -4,7 +4,7 @@
 
 - Counting
 - Timer
-- Simple calculator
+- Simple calculator (deal with the divide with zero)
 - m,n,k-game ('morpion' in french)
 - Just Price (with a price to guess will be random)
 - Clock with hour, minutes and secondes
